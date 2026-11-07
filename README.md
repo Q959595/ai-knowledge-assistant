@@ -4,6 +4,12 @@
 
 > 简历项目・AI agent 应用开发实习生岗位・完整可运行的第一版（v1）
 
+## 界面预览
+
+| 对话主界面 | 知识库管理 |
+| --- | --- |
+| ![对话主界面](screenshots/home.png) | ![知识库管理](screenshots/library.png) |
+
 ## 功能特性
 
 
